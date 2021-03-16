@@ -1,0 +1,14 @@
+E:\Documentos\GitHub\A quien le toca!\A quien le toca!\A quien le toca!\bin\Debug\netstandard2.0\A quien le toca!.deps.json
+E:\Documentos\GitHub\A quien le toca!\A quien le toca!\A quien le toca!\bin\Debug\netstandard2.0\A quien le toca!.dll
+E:\Documentos\GitHub\A quien le toca!\A quien le toca!\A quien le toca!\bin\Debug\netstandard2.0\ref\A quien le toca!.dll
+E:\Documentos\GitHub\A quien le toca!\A quien le toca!\A quien le toca!\bin\Debug\netstandard2.0\A quien le toca!.pdb
+E:\Documentos\GitHub\A quien le toca!\A quien le toca!\A quien le toca!\obj\Debug\netstandard2.0\A quien le toca!.csprojAssemblyReference.cache
+E:\Documentos\GitHub\A quien le toca!\A quien le toca!\A quien le toca!\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Documentos\GitHub\A quien le toca!\A quien le toca!\A quien le toca!\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Documentos\GitHub\A quien le toca!\A quien le toca!\A quien le toca!\obj\Debug\netstandard2.0\A quien le toca!.AssemblyInfoInputs.cache
+E:\Documentos\GitHub\A quien le toca!\A quien le toca!\A quien le toca!\obj\Debug\netstandard2.0\A quien le toca!.AssemblyInfo.cs
+E:\Documentos\GitHub\A quien le toca!\A quien le toca!\A quien le toca!\obj\Debug\netstandard2.0\A quien le toca!.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\A quien le toca!\A quien le toca!\A quien le toca!\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Documentos\GitHub\A quien le toca!\A quien le toca!\A quien le toca!\obj\Debug\netstandard2.0\A quien le toca!.dll
+E:\Documentos\GitHub\A quien le toca!\A quien le toca!\A quien le toca!\obj\Debug\netstandard2.0\ref\A quien le toca!.dll
+E:\Documentos\GitHub\A quien le toca!\A quien le toca!\A quien le toca!\obj\Debug\netstandard2.0\A quien le toca!.pdb
